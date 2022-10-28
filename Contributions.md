@@ -31,10 +31,10 @@
     City - Hyderabad
     
     
-6.  Review - 
-    Name - 
-    Username - 
-    City - 
+6.  Review - It is Awesome.
+    Name - Sadiya
+    Username - techsadiya
+    City - Hyderabad
 
 
     
